@@ -1,0 +1,32 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl acmat_0.002
+Ns 8.000002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd e:/Users/User/Downloads/KERORO/KERORO_HEAD.png
+
+newmtl acmat_1.002
+Ns 8.000002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd e:/Users/User/Downloads/KERORO/KERORO_FACE_000.png
+
+newmtl acmat_2.010
+Ns 8.000002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd e:/Users/User/Downloads/KERORO/KERORO_BODY.png

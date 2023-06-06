@@ -1,0 +1,32 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Body00.004
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd e:/Users/User/Downloads/Meowth/Images/pm0052_00_Body1.png
+map_d e:/Users/User/Downloads/Meowth/Images/pm0052_00_Body1.png
+
+newmtl REye.003
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd e:/Users/User/Downloads/Meowth/Images/pm0052_00_Eye1.png
+map_d e:/Users/User/Downloads/Meowth/Images/pm0052_00_Eye1.png
+
+newmtl RIris.003
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd e:/Users/User/Downloads/Meowth/Images/pm0052_00_Iris1.png
+map_d e:/Users/User/Downloads/Meowth/Images/pm0052_00_Iris1.png
